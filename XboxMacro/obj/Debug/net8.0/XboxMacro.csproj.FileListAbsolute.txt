@@ -1,0 +1,12 @@
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\bin\Debug\net8.0\XboxMacro.deps.json
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\bin\Debug\net8.0\XboxMacro.dll
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\bin\Debug\net8.0\XboxMacro.pdb
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\XboxMacro.csproj.AssemblyReference.cache
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\XboxMacro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\XboxMacro.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\XboxMacro.AssemblyInfo.cs
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\XboxMacro.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\XboxMacro.dll
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\refint\XboxMacro.dll
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\XboxMacro.pdb
+C:\Users\louag\source\repos\XboxMacro\XboxMacro\obj\Debug\net8.0\ref\XboxMacro.dll
